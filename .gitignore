@@ -1,0 +1,8 @@
+*.o
+*.a
+*.so
+app_static
+app_dynamic
+swap_app
+revert_app
+run_tests
